@@ -27,4 +27,4 @@
 &nbsp; <a href="mailto:sohrabsalman987@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [salman](https://github.com/salmansohrab20)
+⭐️ From [salman](https://github.com/salsohrab20)
