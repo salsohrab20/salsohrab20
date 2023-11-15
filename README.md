@@ -6,7 +6,6 @@
 - 🔭 &nbsp; I’m currently working as a Software Developer-2 in Comcast.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
 - 🌱 &nbsp; Enthusiast in Devops and Backend Engineering .
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
