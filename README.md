@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently working as a Software Developer-2 in Comcast.
+- 🔭 &nbsp; I’m currently working as a Software Developer-2 in Hyland.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science, computer programming and Mathematics.
 - 🌱 &nbsp; Enthusiast in Devops and Backend Engineering .
